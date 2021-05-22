@@ -31,4 +31,5 @@
     <li>Total draws</li>
   </ul>    
   <li>Can see the past game played results in a web browser.</li>
+  <li>Pull request test</li>
 </ul>
